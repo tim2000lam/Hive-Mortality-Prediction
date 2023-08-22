@@ -29,4 +29,4 @@ To run the Colony Mortality Prediction Program:
 3. Respond to queries to generate a prediction of colony mortality for your apirary
 
 
-Thanks for using our program! If you have any questions or comments please direct them to tlam04@uoguelph.ca or sshare@uoguelph.ca
+Thanks for using our program! If you have any questions or comments please direct them to timothy2000lam@gmail.com or sshare@uoguelph.ca
